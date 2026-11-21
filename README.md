@@ -4,10 +4,9 @@
 
 Succo è un companion AI **open source, local-first e privacy-first** che vive nel tuo browser come estensione. Niente account, niente server, niente cloud: il modello gira sul tuo computer.
 
-**Stato:** progetto in costruzione pubblica (build-log). Funziona, ma è giovane. Segnala tutto quello che si rompe.
+**Stato:** progetto in costruzione pubblica (build-log). In sviluppo. Segnala tutto quello che si rompe.
 
 **Sito previsto:** [succo.app](https://succo.app) · **Codice previsto:** [github.com/getsucco](https://github.com/getsucco)  
-(Nulla è ancora registrato o pubblicato.)
 
 ---
 
