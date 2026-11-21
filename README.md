@@ -6,7 +6,7 @@ Succo è un companion AI **open source, local-first e privacy-first** che vive n
 
 **Stato:** progetto in costruzione pubblica (build-log). In sviluppo. Segnala tutto quello che si rompe.
 
-**Sito previsto:** [succo.app](https://succo.app) · **Codice previsto:** [github.com/getsucco](https://github.com/getsucco)  
+**Sito previsto:** [succo.app](https://succo.app) · **Codice:** [github.com/Maras-bot/succo](https://github.com/Maras-bot/succo)
 
 ---
 
@@ -57,7 +57,7 @@ ollama pull qwen2.5:3b-instruct-q4_K_M
 
 ### 2. Scarica il progetto
 ```bash
-git clone https://github.com/getsucco/succo.git
+git clone https://github.com/Maras-bot/succo.git
 cd succo
 ```
 
